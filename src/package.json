@@ -1,0 +1,6 @@
+{
+    "name": "test_tray_windowless_app",
+    "version": "1.0.0",
+    "description": "A demo app to try out Tray functionality on a windowless application",
+    "main": "app.js"
+  }

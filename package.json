@@ -1,0 +1,12 @@
+{
+    "name": "test_tray_windowless_app",
+    "version": "1.0.0",
+    "description": "A demo app to try out Tray functionality on a windowless application",
+    "private": true,
+    "scripts": {
+      "start": "nw.cmd src/"
+    },
+    "dependencies": {
+      "nw": "^0.70.1-sdk"
+    }
+}
